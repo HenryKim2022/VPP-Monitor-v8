@@ -1,0 +1,7 @@
+# Ignore everything in the uploads directory
+/node_modules/*
+node_modules
+/vendor/*
+vendor/
+!/vendor/dompdf
+!/vendor/dompdf/

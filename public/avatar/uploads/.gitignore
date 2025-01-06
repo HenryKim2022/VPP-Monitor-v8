@@ -1,0 +1,5 @@
+# Ignore everything in the uploads directory
+/public/avatar/uploads/*
+
+# Except for the specific file
+!/public/avatar/uploads/669f4ffdd2ff6.jpg

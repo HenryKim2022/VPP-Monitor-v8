@@ -1,0 +1,89 @@
+
+  2024-12-26 10:04:56 Running [App\Jobs\AutoCloseExpiredWorksheetsJob] ................................. 172.86ms DONE
+  2024-12-26 10:04:56 Running [Callback] ................................................................. 0.37ms DONE
+
+
+  2024-12-26 10:05:01 Running [App\Jobs\AutoCloseExpiredWorksheetsJob] ................................. 121.90ms DONE
+  2024-12-26 10:05:01 Running [Callback] ................................................................. 0.41ms DONE
+
+
+  2024-12-26 10:06:03 Running [App\Jobs\AutoCloseExpiredWorksheetsJob] ................................. 188.21ms DONE
+  2024-12-26 10:06:03 Running [Callback] ................................................................. 0.36ms DONE
+
+
+  2024-12-26 10:07:01 Running [App\Jobs\AutoCloseExpiredWorksheetsJob] ................................. 111.72ms DONE
+  2024-12-26 10:07:01 Running [Callback] ................................................................. 0.35ms DONE
+
+
+  2024-12-26 10:08:01 Running [App\Jobs\AutoCloseExpiredWorksheetsJob] ................................. 106.56ms DONE
+  2024-12-26 10:08:02 Running [Callback] ................................................................. 0.37ms DONE
+
+
+  2024-12-26 10:09:02 Running [App\Jobs\AutoCloseExpiredWorksheetsJob] ................................. 106.57ms DONE
+  2024-12-26 10:09:02 Running [Callback] ................................................................. 0.31ms DONE
+
+
+  2024-12-26 10:10:01 Running [App\Jobs\AutoCloseExpiredWorksheetsJob] ................................. 111.33ms DONE
+  2024-12-26 10:10:01 Running [Callback] ................................................................. 0.35ms DONE
+
+
+  2024-12-26 10:11:02 Running [App\Jobs\AutoCloseExpiredWorksheetsJob] ................................. 103.63ms DONE
+  2024-12-26 10:11:02 Running [Callback] ................................................................. 0.45ms DONE
+
+
+  2024-12-26 10:12:01 Running [App\Jobs\AutoCloseExpiredWorksheetsJob] .................................. 92.61ms DONE
+  2024-12-26 10:12:01 Running [Callback] ................................................................. 0.37ms DONE
+
+
+  2024-12-26 10:13:02 Running [App\Jobs\AutoCloseExpiredWorksheetsJob] ................................. 106.94ms DONE
+  2024-12-26 10:13:02 Running [Callback] ................................................................. 0.39ms DONE
+
+
+  2024-12-26 10:14:02 Running [App\Jobs\AutoCloseExpiredWorksheetsJob] .................................. 95.53ms DONE
+  2024-12-26 10:14:02 Running [Callback] ................................................................. 0.41ms DONE
+
+
+  2024-12-26 10:15:02 Running [App\Jobs\AutoCloseExpiredWorksheetsJob] ................................. 111.40ms DONE
+  2024-12-26 10:15:02 Running [Callback] ................................................................. 0.47ms DONE
+
+
+  2024-12-26 10:16:01 Running [App\Jobs\AutoCloseExpiredWorksheetsJob] ................................. 106.59ms DONE
+  2024-12-26 10:16:02 Running [Callback] ................................................................. 0.35ms DONE
+
+
+  2024-12-26 10:17:01 Running [App\Jobs\AutoCloseExpiredWorksheetsJob] .................................. 85.27ms DONE
+  2024-12-26 10:17:02 Running [Callback] ................................................................. 0.34ms DONE
+
+
+  2024-12-26 10:18:01 Running [App\Jobs\AutoCloseExpiredWorksheetsJob] .................................. 88.42ms DONE
+  2024-12-26 10:18:01 Running [Callback] ................................................................. 0.29ms DONE
+
+
+  2024-12-26 10:19:02 Running [App\Jobs\AutoCloseExpiredWorksheetsJob] ................................. 105.53ms DONE
+  2024-12-26 10:19:02 Running [Callback] ................................................................. 0.27ms DONE
+
+
+  2024-12-26 10:20:01 Running [App\Jobs\AutoCloseExpiredWorksheetsJob] .................................. 94.11ms DONE
+  2024-12-26 10:20:01 Running [Callback] ................................................................. 0.39ms DONE
+
+
+   INFO  No scheduled commands are ready to run.  
+
+
+   INFO  No scheduled commands are ready to run.  
+
+
+   INFO  No scheduled commands are ready to run.  
+
+
+   INFO  No scheduled commands are ready to run.  
+
+
+   INFO  No scheduled commands are ready to run.  
+
+
+   INFO  No scheduled commands are ready to run.  
+
+
+   INFO  No scheduled commands are ready to run.  
+

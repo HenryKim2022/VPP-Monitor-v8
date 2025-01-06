@@ -1,0 +1,22 @@
+09:18:09.974 ***   Cronical booting up
+09:18:09.993       Starting Cronical as a console program...
+09:18:09.998 ***   Process startup
+09:18:09.998       Using definition file cronical.dat
+09:18:10.021       - Next job start 12/27/2024 9:19:00 AM for cmd /c "cd E:\laragon\www && php artisan schedule:run >> E:\laragon\www\cron.log 2>&1"
+09:18:10.025       Config: Run missed jobs on startup = True
+09:18:10.025       Config: Check services every       = 15 seconds
+09:18:10.025       Config: Terminate cron jobs after  = 3600 seconds
+09:18:10.025       1 jobs in job list
+09:18:10.025       - Starting boot jobs
+09:18:10.025       - Run missed jobs mode - recalculating jobs execution time from last activity...
+09:18:10.025       - Next job start 12/27/2024 9:18:00 AM for cmd /c "cd E:\laragon\www && php artisan schedule:run >> E:\laragon\www\cron.log 2>&1"
+09:18:11.038       - [4] Next job start 12/27/2024 9:19:00 AM for cmd /c "cd E:\laragon\www && php artisan schedule:run >> E:\laragon\www\cron.log 2>&1"
+09:18:11.038       - [4] Checking services
+09:18:11.044       [4] Hello! I have 1 upcoming jobs today and 0 services running.
+09:18:11.044       [5] Starting job: cmd /c "cd E:\laragon\www && php artisan schedule:run >> E:\laragon\www\cron.log 2>&1"
+09:18:11.044       - [5] Executing: C:\Windows\SYSTEM32\cmd.exe
+09:18:11.044       - [5] ...parameters: /c "cd E:\laragon\www && php artisan schedule:run >> E:\laragon\www\cron.log 2>&1"
+09:18:11.044       - [5] ...in directory: E:\laragon\bin\cronical
+09:18:11.070       - [5] Process started, waiting at most 3600 seconds
+09:18:12.981       - [5] Job finished
+^C
